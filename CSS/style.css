@@ -1,0 +1,26 @@
+header{
+    background-color: black;
+    color: cornsilk;
+}
+
+footer{
+    color: black;
+    background-color: darkgrey;
+}
+
+main{
+    background-color: navajowhite;
+    color: darkblue;
+}
+
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 110px ;
+    background-color: navajowhite;
+
+}
